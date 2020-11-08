@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'StripePaymentPOC' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'StripeTerminal', '1.4.0'
+  pod 'Stripe', '19.0.1' 
+  pod 'FlexLayout'
+  pod 'PinLayout'
+  
+  # Pods for StripePaymentPOC
+
+end

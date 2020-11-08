@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>testAPIKey</key>
+		<string>pk_test_51HlECnJSZwuXDxq3DGVWSClJfGgSoFqfUPktpWJhBzJ2FWbYc9QfiN5LIeguM1nX6Y65bDP9Nr4RxWzU63TmQZ9900tkAmIfF3</string>
+	</dict>
+	<dict>
+		<key>prodAPIKey</key>
+		<string>pk_live_51HlECnJSZwuXDxq3RLVBFxxSp9t71Gtl5GWDiywZSa82BUypapm9PTFWEy7OnH41ioxfd2bP0a9IrlS7lcuZb9hF00CbOPSA5E</string>
+	</dict>
+</array>
+</plist>
